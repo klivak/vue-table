@@ -2,7 +2,7 @@
   <div id="app">
     <header class="header">
       <nav class="navbar navbar-expand-lg navbar-light bg-light">
-        <a class="navbar-brand" href="#">Vue Test</a>
+        <router-link class="navbar-brand" to="/">Vue Test</router-link>
         <button
           class="navbar-toggler"
           type="button"
@@ -33,7 +33,7 @@
       <div class="container">
         <div class="row">
           <div class="col-12">
-            Copyright © 2020. All rights reserved
+            Copyright © 2020 KLVK. All rights reserved
           </div>
         </div>
       </div>
